@@ -21,21 +21,21 @@
 以下展示图参考自官方模板页，用于帮助快速了解本项目整体风格与页面表现。
 
 <p>
-  <img src="./static/readme/brand-preview-01.jpeg" alt="官方预览图 1" height="220" />
-  <img src="./static/readme/brand-preview-02.jpeg" alt="官方预览图 2" height="220" />
-  <img src="./static/readme/brand-preview-04.jpeg" alt="官方预览图 4" height="220" />
-  <img src="./static/readme/brand-preview-05.jpeg" alt="官方预览图 5" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213305776-assets/web-upload/57b927e1-9a50-4248-8c86-db84e03d7620.jpeg" alt="官方预览图 1" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213305280-assets/web-upload/0dae836b-54cd-455e-8067-b2b949de3873.jpeg" alt="官方预览图 2" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213304935-assets/web-upload/d9689b15-fc2d-4299-8328-636839b97b55.jpeg" alt="官方预览图 4" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213303368-assets/web-upload/95fea63d-e01b-47d0-9ac4-11dc88a54873.jpeg" alt="官方预览图 5" height="220" />
 </p>
 
 <p>
-  <img src="./static/readme/brand-preview-07.jpeg" alt="官方预览图 7" height="220" />
-  <img src="./static/readme/brand-preview-08.jpeg" alt="官方预览图 8" height="220" />
-  <img src="./static/readme/brand-preview-09.jpeg" alt="官方预览图 9" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213303712-assets/web-upload/5d556d7b-85b8-4c12-9c0b-84ddb9db8788.jpeg" alt="官方预览图 7" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213303760-assets/web-upload/4fdb3d57-d8d2-46b8-a2a6-b362c199947c.jpeg" alt="官方预览图 8" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213303789-assets/web-upload/ffeb34d7-5d06-454f-b60e-4a8314d02336.jpeg" alt="官方预览图 9" height="220" />
 </p>
 
 <p>
-  <img src="./static/readme/brand-preview-06.jpeg" alt="官方预览图 6" height="220" />
-  <img src="./static/readme/brand-preview-03.jpeg" alt="官方预览图 3" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213303684-assets/web-upload/d49964ca-1f06-483e-89f2-49183f4c8cbd.jpeg" alt="官方预览图 6" height="220" />
+  <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/280373/1737213306322-assets/web-upload/7e7076a0-5aa5-4a35-a83f-c9be1245699c.jpeg" alt="官方预览图 3" height="220" />
 </p>
 
 ## 页面结构
